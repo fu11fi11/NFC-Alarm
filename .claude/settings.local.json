@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(flutter run *)",
+      "Bash(flutter pub *)",
+      "Bash(flutter build *)",
+      "Bash(flutter --version)",
+      "WebSearch",
+      "Bash(python3 -)"
+    ]
+  }
+}

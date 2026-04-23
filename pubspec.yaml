@@ -1,0 +1,27 @@
+name: nfc_alarm
+description: NFC 알람 앱
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  nfc_manager: ^3.3.0
+  shared_preferences: ^2.3.2
+  flutter_local_notifications: ^17.2.0
+  timezone: ^0.9.0
+  flutter_ringtone_player: ^4.0.0+4
+  vibration: ^3.1.8
+  android_intent_plus: ^6.0.0
+  flutter_foreground_task: ^9.2.2
+  android_alarm_manager_plus: ^5.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
