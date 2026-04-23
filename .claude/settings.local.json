@@ -6,7 +6,9 @@
       "Bash(flutter build *)",
       "Bash(flutter --version)",
       "WebSearch",
-      "Bash(python3 -)"
+      "Bash(python3 -)",
+      "Bash(flutter analyze *)",
+      "Bash(git diff *)"
     ]
   }
 }
